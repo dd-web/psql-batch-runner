@@ -1,0 +1,14 @@
+posts
+thread_mods
+threads
+identities
+identity_statuses
+identity_styles
+thread_roles
+thread_statuses
+boards
+articles
+article_statuses
+accounts
+account_statuses
+account_roles

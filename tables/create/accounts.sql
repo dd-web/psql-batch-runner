@@ -12,10 +12,10 @@ CREATE TABLE IF NOT EXISTS accounts (
 );
 
 INSERT INTO accounts (username, email, status_id, role_id) VALUES
-('supafiya', 'devduncan89@gmail.com', 1, 4),
-('nyro', 'nyronic@gmail.com', 1, 3),
+('david', 'devduncan89@gmail.com', 1, 4),
+('nick', 'nick@gmail.com', 1, 3),
 ('testguy', 'testdude85@gmail.com', 1, 1),
 ('coolblue', 'blue32@yahoo.com', 1, 1),
 ('manbearpig', 'fakeemail@fake.com', 1, 1),
-('glown', 'notaglowy@fbi.gov', 4, 1),
+('glown', 'clown@yahoo.com', 4, 1),
 ('test', 'test@test.com', 1, 2);
